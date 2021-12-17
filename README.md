@@ -5,7 +5,7 @@
 ## 배포 주소
 
 ### http://airbnb-bucket.s3-website.ap-northeast-2.amazonaws.com
-
+### https://www.youtube.com/watch?v=_KmuyLrpyQQ
 ---
 
 ## 프론트 팀원
